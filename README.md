@@ -54,4 +54,5 @@ Docker bilgisayarınızda kurulduktan sonra docker ı çalıştırmalısınız.
 
 ![petDetailPage](https://i.hizliresim.com/qorpegx.png)
 
+#### Herkese Mutlu Geliştirmeler
 
