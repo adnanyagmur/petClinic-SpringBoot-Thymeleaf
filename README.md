@@ -9,7 +9,8 @@ Pet Clinic veteriner uygulaması hayvan sahiplerinin ve hayvan sahiplerinin hayv
 - Lombok
 - Junits(İlk test denememdi fail oldu. Test classını yorum satırına aldım. Çözünce commitleyeceğim.)
 - Bootstrap
-- MySql
+- MySql(Geliştirme yaparken bu databasei kullandım.)
+- H2 Database (Docker image oluşutururken bu database geçiş yaptım. Projeyi localinize çekip kullanmak isterseniz, ilgili dependency ler pom.xml de mevcut yorum ihtiyacınıza göre yorum satırına alıp mysql e geçebilirsiniz. Ayrıca application.properties dosyasında da kullanıcağınız database, şema ismi, username ve password alanlarını kendinize göre ayarlayınız. )
 
 ## Pet Clinic Sistemindeki Modeller
 - Owner
