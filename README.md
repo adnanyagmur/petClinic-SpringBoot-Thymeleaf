@@ -21,7 +21,8 @@ Owner ve Pet olmak üzere 2 modelimiz bulunmaktadır. Sistemde ManyToOne ilişki
 ![Modeller Arası İlişki tablosu](https://i.hizliresim.com/ptscsw0.png)
 
 ## Pet Clinic Sisteminini Nasıl Kullanabilirsiniz.
-Docker bilgisayarınızda kurulduktan sonra docker ı çalıştırmalısınız.
+
+Docker bilgisayarınızda kurulduktan sonra docker ı çalıştırmalısınız. Bu [link](https://www.youtube.com/watch?v=TQ4khPNy7os&t=10s) üzerinden de youtube de kurulumu anlattığım videoya erişebilirsiniz.
 
 + Daha sonra "**docker pull adnanyagmur/petclinic:latest**" omutunu yazarak images kendi localinize çekebilirisiniz. 
 + "**docker images**" komutunu çalıştırarak var olan images ler arasından petclinic image i pull edilmiş mi görebilirsiniz.
