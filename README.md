@@ -31,21 +31,27 @@ Docker bilgisayarınızda kurulduktan sonra docker ı çalıştırmalısınız.
 ## Petclinic Sistemine Ait Görseller
 
 ### New Owner
+
 ![newOwner](https://i.hizliresim.com/4yk983a.png)
 
 ### Owner List
+
 ![ownerList](https://i.hizliresim.com/45acy5q.png)
 
 ### Owner Detail Page
+
 ![ownerDetailPage](https://i.hizliresim.com/mxk90rv.png)
 
 ### Owner Detail Page -> Add Pet
+
 ![addPet](https://i.hizliresim.com/si39pgz.png)
 
 ### Home Page (Pet List)
+
 ![homePage](https://i.hizliresim.com/cofpho3.png)
 
 ### Pet Detail Page
+
 ![petDetailPage](https://i.hizliresim.com/qorpegx.png)
 
 
